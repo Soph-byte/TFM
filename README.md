@@ -1,4 +1,6 @@
 # TFM
+
+## Note: The full Dataset is available on Zenodo: https://zenodo.org/records/15687654
 This repository is part of my Master's thesis for the Master's in Computational Social Sciences at Universidad Carlos III de Madrid.
 
 This repository holds the code and materials for a text analysis project. It explores gender representation in popular music lyrics. The project uses the "Spotify 12M Songs Dataset" from Kaggle, which gives metadata and audio features for many songs. For better analysis, the original dataset received more information. We added artist gender, country of origin, genre, and popularity using public APIs like MusicBrainz and Spotify.
